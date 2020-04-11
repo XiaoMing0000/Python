@@ -14,5 +14,6 @@
 		-Java执行效率高，开发效率低
 #### Python种类
 
-	JPython、IronPython、CPython、JavaScriptPython、RubyPython、pypy……
-   
+I think you should use an
+`<addr>` element here instead.
+Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
